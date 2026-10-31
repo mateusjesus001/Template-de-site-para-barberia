@@ -37,7 +37,7 @@ npm ou outro gerenciador de pacotes compatível.
 Instalação
 Clone este repositório:
 bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/mateusjesus001/Template-de-site-para-barberia.git
 
 Acesse a pasta do projeto:
 bash
