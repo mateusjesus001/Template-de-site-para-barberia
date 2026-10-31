@@ -1,0 +1,11 @@
+{
+  "title": "Template Barbearia",
+  "description": "Apresente serviços, estilo e informações de uma barbearia em uma página elegante, ajudando clientes a conhecer o espaço e agendar seu próximo corte.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
